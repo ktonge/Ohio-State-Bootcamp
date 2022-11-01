@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The purpose of this analysis was to explore the relationship between campaign launch date, fundraising goals, and success if any.  This analysis was focused on comparing other similar works to Louise’s, We narrowed the Kickstarter data to focus on similar projects to Louise's, specifically theater projects.  
+We were 
 ### Purpose
-
+The purpose of this analysis was to explore the relationship between campaign launch date, fundraising goals, and success if any.  This analysis was focused on comparing other similar works to Louise’s, We narrowed the Kickstarter data to focus on similar projects to Louise's, specifically theater projects.  
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
