@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Processing Kickstarter Data with Excel
 
 ## Overview of Project
 This project was intended to introduce me as a student to additional excel concepts.  This project was an exploration of data, being able to transofrm it into new data, and effectively expressing that data through graphics.  
